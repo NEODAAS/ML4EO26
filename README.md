@@ -11,6 +11,6 @@ This is the repo for the NEODAAS workshop for the ML4EO training course
 
 ## Practical 2 - Neural Network for Regression
 
-<a target="_blank" href="https://colab.research.google.com/github/NEODAAS/ML4EO26/blob/practical_2/2_Neural_Network_Regression.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/NEODAAS/ML4EO26/blob/main/2_Neural_Network_Regression.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
